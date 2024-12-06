@@ -1,5 +1,4 @@
 # Certifications_done_by_me
-This repository is created to showcase the certifications completed by me .
 Certificates Included:
 GenAI and LLMs (Duke University)
 Certificate awarded upon successful completion of the course on Generative AI and Large Language Models offered by Duke University.
